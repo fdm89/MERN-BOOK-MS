@@ -34,7 +34,7 @@ Start the development server:
 Frontend: cd client && npm start
 Backend: npm start
 Usage
-Open your web browser and navigate to http://localhost:<frontend_port> to access the Book Store application.
+Open your web browser and navigate to the frontend port to access the Book Store application.
 Use the navigation links to browse through different sections of the application.
 Perform CRUD operations:
 Create: Click on the "Add Book" button to create a new book.
